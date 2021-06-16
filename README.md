@@ -15,7 +15,7 @@ Clone the repository into your configuration directory, in the example below we 
 
 _If your configuration folder is already in Git you could use [Git Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) instead._
 
-`git clone https://github.com/filipjohansson/qutebrowser-dark-plus.git ~/.qutebrowser/`
+`git clone https://github.com/filipjohansson/qutebrowser-dark-plus.git ~/.qutebrowser/dark_plus`
 
 #### b. Manual install
 Download the zip from Github and unzip it into your configuration directory.
